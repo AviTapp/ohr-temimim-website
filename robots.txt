@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /private
+
+Sitemap: http://www.ohrtemimimschool.com/sitemap.xml
