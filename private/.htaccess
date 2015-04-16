@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Ohr Temimim Parents Only"
-AuthUserFile /home/content/96/6524296/html/private/.htpasswd
-Require valid-user
