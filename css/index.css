@@ -1,0 +1,54 @@
+.clmore {display: none !important;}
+
+
+
+/* Copyright Chabad.org 1993-2015 */
+.CLTable {
+    Font-Size: 11px;
+}
+.CLHeadingBold {
+    Font-Family: Tahoma, Arial, Verdana;
+    Font-Size: 11px;
+    Text-Align: center;
+    Font-Weight: bold;
+}
+.CLheading {
+    Font-Family: Tahoma, Arial, Verdana;
+    Font-Size: 11px;
+    Text-Align: center;
+}
+A.CLLink {
+    Font-Family: Tahoma, Arial, Verdana;
+    Font-Size: 9px;
+    Text-Align: center;
+}
+A.CLLink:Hover {
+    Font-Family: Tahoma, Arial, Verdana;
+    Font-Size: 9px;
+    Text-Align: center;
+    Color: #000000;
+    Text-Decoration: underline;
+}
+.CLdate {
+    Font-Family: Tahoma, Arial, Verdana;
+    Font-Size: 90%;
+    Text-Align: Left;
+    Font-Weight: bold;
+    text-decoration: none;
+}
+.CLtime {
+    Font-Family: Tahoma, Arial, Verdana;
+    Font-Size: 11px;
+    Text-Align: Right;
+    Font-Weight: normal;
+    Margin-Bottom: 0px;
+}
+.CLhr {
+    color: #666666;
+    height: 1px;
+    width: 50%;
+}
+.CLHolName {
+    font-weight: normal;
+}
+/*End Chabad.org Code*/
