@@ -5,4 +5,10 @@
 <file name="node_add_form.inc" server="50.62.98.1" local="131174424000000000" remote="131174424000000000" Dst="1" />
 <file name="node_edit_form.inc" server="50.62.98.1" local="131174424000000000" remote="131174424000000000" Dst="1" />
 <file name="string.inc" server="50.62.98.1" local="131174424000000000" remote="131174424000000000" Dst="1" />
+<file name="term.inc" server="50.62.98.1" local="131174424000000000" remote="131174424000000000" Dst="1" />
+<file name="terms.inc" server="50.62.98.1" local="131174424000000000" remote="131174424000000000" Dst="1" />
+<file name="token.inc" server="50.62.98.1" local="131174424000000000" remote="131174424000000000" Dst="1" />
+<file name="user.inc" server="50.62.98.1" local="131174424000000000" remote="131174424000000000" Dst="1" />
+<file name="user_edit_form.inc" server="50.62.98.1" local="131174424000000000" remote="131174424000000000" Dst="1" />
+<file name="vocabulary.inc" server="50.62.98.1" local="131174424000000000" remote="131174424000000000" Dst="1" />
 </dwsync>
