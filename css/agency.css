@@ -55,6 +55,7 @@ section {
 
 .btn-primary {
   background-color: #fed136;
+  color: #343a40;
   border-color: #fed136; }
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
     background-color: #fec810 !important;
